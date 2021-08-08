@@ -63,7 +63,7 @@
         android:textSize="15sp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:textColor="#ffffff"
+        android:textColor="#E2FD40"
         android:text="@string/loading"
         android:layout_width="110dp"
         android:layout_height="wrap_content"/>
